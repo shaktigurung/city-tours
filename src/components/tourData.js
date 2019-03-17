@@ -30,5 +30,37 @@ export const tourData = [
     name: "tokyo sushi tour",
     info:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+  },
+  {
+    id: 5,
+    city: "singapore",
+    img: "./img/singapore.jpeg",
+    name: "santosha island tour",
+    info:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+  },
+  {
+    id: 6,
+    city: "Hongkong",
+    img: "./img/hongkong.jpeg",
+    name: "big buddha tour",
+    info:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+  },
+  {
+    id: 7,
+    city: "Auckland",
+    img: "./img/auckland.jpeg",
+    name: "Auckland city tour",
+    info:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+  },
+  {
+    id: 8,
+    city: "sydney",
+    img: "./img/sydney.jpeg",
+    name: "Opera house tour",
+    info:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
   }
 ];
